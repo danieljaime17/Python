@@ -1,0 +1,507 @@
+[33mcommit 692ccae54a47a16c8286d91b08707150c20531fc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Fri Jul 31 02:00:08 2020 -0400
+
+    YouTube API Tutorial
+
+[33mcommit ed3c42ff06bb31da1f9f00689fa76d90babddc97[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Tue Jun 9 11:51:20 2020 -0400
+
+    Python YouTube API Tutorial
+
+[33mcommit 4b23fe3bbdb851055c3641b33fc69ca96b74475f[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Fri May 29 11:55:38 2020 -0400
+
+    YouTube-API-Tutorial
+
+[33mcommit 8a59f167592e9b6349c709d6c737311983a5914b[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Wed Apr 1 11:36:44 2020 -0400
+
+    Pandas Tutorial 11
+
+[33mcommit 659cf38d7763856dc9e6952e81d8883ec775e433[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Tue Mar 17 14:11:15 2020 -0400
+
+    Pandas Tutorial 10
+
+[33mcommit 3b2077e9fea671300a5961b3322380416afbacbd[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Sun Feb 23 18:19:01 2020 -0500
+
+    Pandas Tutorial 09
+
+[33mcommit bad2410c3bb98c57dab1beae6b71da83798b1ff8[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Fri Feb 14 09:11:24 2020 -0500
+
+    Pandas Tutorial 08
+
+[33mcommit b2ba29df2f081b1ccf165241125697c1ac042b24[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Wed Feb 5 23:06:42 2020 -0500
+
+    Pandas Tutorial 7
+
+[33mcommit bdabaf38a5138f721b929c0632240e3ff13e2069[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Sat Feb 1 17:25:49 2020 -0500
+
+    Pandas Tutorial 06
+
+[33mcommit c6ecf7f0c120922b76ed07f08a56f762344d4803[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Thu Jan 23 23:51:39 2020 -0500
+
+    Pandas Tutorial 5
+
+[33mcommit 5e379b88d3389a3589c768b51d0e79471be8d4ef[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Thu Jan 16 15:52:04 2020 -0500
+
+    Pandas Tutorial 4
+
+[33mcommit d53a906651d6b623ed952afbdbe7b94c8b9c9c71[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Mon Jan 13 13:23:56 2020 -0500
+
+    Pandas Tutorial 3
+
+[33mcommit 1193eea5c27c38402788230b59cae9034d31f531[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Fri Jan 10 09:54:42 2020 -0500
+
+    Pandas Tutorial 2
+
+[33mcommit 3759480d77b0effee6942b7b0df597df8f1af3d1[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Wed Jan 8 14:57:09 2020 -0500
+
+    Pandas Tutorial 01
+
+[33mcommit dddce696670dc8670068b10f8848ea1878ff9705[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Wed Jan 8 14:54:46 2020 -0500
+
+    Pandas Tutorial 01
+
+[33mcommit eed7fce2b989b23568cf78b033e6372ff1415020[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Thu Oct 17 00:43:29 2019 -0400
+
+    Stack Overflow Survey Analysis
+
+[33mcommit c6e1e777fc3e28307ff591353967a387e37d9ca4[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Fri Sep 20 10:42:34 2019 -0400
+
+    Multiprocessing Snippets
+
+[33mcommit bbcbacc91f3ba4a530ce3d7c6da2d48f5837f246[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Wed Sep 11 15:20:23 2019 -0400
+
+    Python Threading Tutorial
+
+[33mcommit b66bd4720a68030d30451feb24fa4563b08c1928[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Tue Jun 18 09:46:20 2019 -0600
+
+    Fixed snippet
+
+[33mcommit bf5a05f6e73eee9b444abe59ff7c9ee6929ef5dc[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Sat Jun 8 21:11:19 2019 -0600
+
+    Matplotlib Series Code
+
+[33mcommit 2d2e572a78cfddb53a2c40aad36b34cc4f00b11f[m
+Merge: 2ce2c0a 0060910
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Mon Mar 18 10:41:58 2019 -0600
+
+    Merge branch 'master' of https://github.com/CoreyMSchafer/code_snippets
+
+[33mcommit 2ce2c0a07cb2197485e85a2df52c072653ab2e16[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Mon Mar 18 10:40:55 2019 -0600
+
+    Email snippets
+
+[33mcommit 0060910e149657c96275e77df756ec1819370367[m
+Merge: e5cdf17 309fa59
+Author: Corey Schafer <coreymschafer@gmail.com>
+Date:   Mon Mar 11 13:32:26 2019 -0600
+
+    Merge pull request #39 from jaekyuoh/patch-1
+    
+    Update Object-Oriented/6-property-decorator/oop.py
+
+[33mcommit e5cdf17e236f2aae5ea119dfe550d6485ade2d11[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Mon Mar 11 13:28:18 2019 -0600
+
+    Simple HTML snippet
+
+[33mcommit 309fa59d4def51fa548fec29832cc1887379fda9[m
+Author: jaekyuoh <jaekyuoh@gmail.com>
+Date:   Mon Mar 11 17:35:38 2019 +0900
+
+    Update oop.py
+
+[33mcommit d2a371b03b2dc3afd98715ee4ae64880c6ec4f34[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Tue Feb 26 20:22:50 2019 -0700
+
+    Website Monitoring Script
+
+[33mcommit 11d4c9f59368a0fdf969a79a77d078bb32939d75[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Mon Feb 18 12:56:44 2019 -0700
+
+    Code snippets
+
+[33mcommit 16bd511a13d43c09847326c71411489eb2c57bd0[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Mon Feb 18 12:55:29 2019 -0700
+
+    Removed incorrect project
+
+[33mcommit db128f7e72d7d6d7725cb113863d7ccffeaff164[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Mon Feb 18 12:52:34 2019 -0700
+
+    CORS config
+
+[33mcommit 908e5dbc2e69e80b9a929bb98bebcc2b65c9648c[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Mon Feb 18 12:50:17 2019 -0700
+
+    AWS and Heroku Code
+
+[33mcommit 60d25842673210d3ec5a334e3e44d2c7c69800f1[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Thu Jan 24 11:01:35 2019 -0700
+
+    Apache and Nginx Let's Encrypt Commands
+
+[33mcommit fc7d6be1eb8c4ac3c8173cf47b2f49e9e10a4a93[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Tue Jan 15 13:36:57 2019 -0700
+
+    Fixed apache config sample for Django deployment
+
+[33mcommit 9604b34ed60ad86e1a695ae11c3bc03c8bda2ef9[m
+Merge: 46f3713 ded4d37
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Wed Jan 9 17:18:40 2019 -0700
+
+    Merge branch 'master' of https://github.com/CoreyMSchafer/code_snippets
+
+[33mcommit 46f3713cfa4ebf65d13bc14908606ef619f8ee18[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Wed Jan 9 17:18:14 2019 -0700
+
+    Flask and Django deployment changes
+
+[33mcommit ded4d377477ff6022593ec21c44f52c7b2f5f3ad[m
+Merge: 07ab838 4982e0f
+Author: Corey Schafer <coreymschafer@gmail.com>
+Date:   Mon Jan 7 13:41:22 2019 -0700
+
+    Merge pull request #27 from hassaanalansary/patch-1
+    
+    Fix missing directory path at <Directory> tag
+
+[33mcommit 4982e0f0c340315568a70f3f65855a9572450e17[m
+Author: hassaanalansary <hassaanalansary@yahoo.com>
+Date:   Fri Dec 28 15:21:28 2018 +0200
+
+    Fix missing directory path at <Directory> tag
+
+[33mcommit 07ab8384518d5ef9208a71f8820e667b9297d546[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Thu Dec 20 10:06:00 2018 -0700
+
+    Flask Deployment Snippets
+
+[33mcommit 0a5183fab820767985b6069f20e02d129a8cccf1[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Wed Dec 12 20:38:48 2018 -0700
+
+    Django Apache Configuration
+
+[33mcommit cb5f729dd937e43a3722bf79a8ac2bdcf33417c8[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Sat Nov 24 18:01:41 2018 -0700
+
+    Added MIT License
+
+[33mcommit 2259d6cab42da6dab7d932f7cc8cac0d89596453[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Mon Nov 12 19:12:57 2018 -0700
+
+    Itertools Code Snippets
+
+[33mcommit 588f06736b9da07b60efc3b03fc14581ef1a4113[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Tue Oct 23 17:44:00 2018 -0600
+
+    Iterators Tutorial
+
+[33mcommit 9e4da1f06e5100ae3d86489783e91ca069ede964[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Wed Oct 17 12:18:56 2018 -0600
+
+    Pipenv snippets
+
+[33mcommit 7d3d49bd44f909587487529ab05d2cfd6161c800[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Fri Aug 31 10:03:35 2018 -0600
+
+    Added snippets
+
+[33mcommit 59cd8a45349d533f18affa04482ff5bb6f784ae4[m
+Merge: a96f8d1 e377c47
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Fri Aug 31 08:21:44 2018 -0600
+
+    Merge branch 'master' of https://github.com/CoreyMSchafer/code_snippets
+
+[33mcommit a96f8d1b3cfa1aa25398280f309ec5a7c5603247[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Fri Aug 31 08:14:36 2018 -0600
+
+    Django series code snippets
+
+[33mcommit e377c47f7b1b11a57effdf014000479ab900c44c[m
+Merge: ade34eb ec32230
+Author: Corey Schafer <coreymschafer@gmail.com>
+Date:   Mon Aug 27 10:15:57 2018 -0600
+
+    Merge pull request #12 from adyprice/patch-1
+    
+    windows set variables
+
+[33mcommit ec3223086fe9d2e67e0d74d62a8f4b5e8f0c5670[m
+Author: adyprice <adyprice@users.noreply.github.com>
+Date:   Sun Aug 26 02:20:42 2018 +0300
+
+    create quickstart-windows.bat
+    
+    set FLASK_APP=flaskblog.py
+    set FLASK_ENV=development
+    flask run
+
+[33mcommit ade34eb2de962f6be2870de0d03d3c18e20819c7[m
+Merge: 3e23f3e 20f20de
+Author: Corey Schafer <coreymschafer@gmail.com>
+Date:   Tue Aug 21 13:51:13 2018 -0600
+
+    Merge pull request #11 from Coder44/master
+    
+    Added Code Snippets
+
+[33mcommit 20f20de82d39e11645c849f6cb1083fb57be97cb[m
+Author: Coder44 <mahir.programmer@gmail.com>
+Date:   Mon Jul 30 16:10:11 2018 +0800
+
+    Added Code Snippets
+
+[33mcommit 3e23f3ecc7f6ff0a8a1b55df297673d0618e9137[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Wed Jun 20 10:22:07 2018 -0600
+
+    Python Sets Snippets
+
+[33mcommit be8c7c62d39f262b15c72b3d04146da45abf8a9a[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Fri May 4 12:34:46 2018 -0600
+
+    Code snippet updates
+
+[33mcommit b6cff5b162e6d972c385f4554d010cdc17c64875[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Fri May 4 11:05:30 2018 -0600
+
+    Flask Series Code
+
+[33mcommit c3254904891bfa44b92c7eae775fcf705b829366[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Tue Mar 6 23:18:06 2018 -0700
+
+    Grep Tutorial Snippets
+
+[33mcommit 39d50f302014eacffe1d23c74f3d3893928f02bc[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Wed Jan 31 21:54:24 2018 -0700
+
+    New Code Snippets
+
+[33mcommit 1514054a894f8b5dfed319b00dc3e630e3fbe32c[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Wed Jan 17 19:32:27 2018 -0700
+
+    Python Future Date code snippets
+
+[33mcommit 206aec57e4da0a6ea31e9fca6fbb23bfa6f56ded[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Tue Dec 19 21:43:13 2017 -0700
+
+    Python Context Managers code snippets
+
+[33mcommit fab06d09926f26c03f67a8fa0223eb38271d1fa9[m
+Author: Corey Schafer <Corey.Schafer@lasp.colorado.edu>
+Date:   Sat Nov 18 13:02:38 2017 -0700
+
+    Python JSON Snippets
+
+[33mcommit fc5e8dd83eeaffaae110807b29ab791a0ec699c7[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Tue Nov 7 22:14:25 2017 -0700
+
+    BeautifulSoup Tutorial
+
+[33mcommit aff3362fa44597a80a3d4d0a1ca8ac335be68750[m
+Merge: eaea438 b479f43
+Author: Corey Schafer <Corey.Schafer@lasp.colorado.edu>
+Date:   Sat Oct 21 13:34:07 2017 -0600
+
+    Merge branch 'master' of https://github.com/CoreyMSchafer/code_snippets
+
+[33mcommit eaea4381b6d66b65d577c470f464aa1e5b3d818e[m
+Author: Corey Schafer <Corey.Schafer@lasp.colorado.edu>
+Date:   Sat Oct 21 13:34:04 2017 -0600
+
+    Python Regex Tutorial Snippets
+
+[33mcommit b479f43c14bc854cf096bf05acadd050b36a7482[m
+Author: Corey Schafer <coreymschafer@gmail.com>
+Date:   Mon Oct 9 14:32:37 2017 -0600
+
+    Update urls.txt
+
+[33mcommit bfc9a9132e41439409387fd6c40dfa3d86e1bc16[m
+Merge: 546a977 0d70dcf
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Wed Oct 4 23:46:20 2017 -0600
+
+    Merge branch 'master' of https://github.com/CoreyMSchafer/code_snippets
+
+[33mcommit 546a977232e914fc493d2bf2690b6441815b9933[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Wed Oct 4 23:45:40 2017 -0600
+
+    Regular Expression Snippets
+
+[33mcommit 0d70dcfe0fddcf28a3e22d296a8390f250ec7680[m
+Author: Corey Schafer <coreymschafer@gmail.com>
+Date:   Tue Sep 5 23:01:04 2017 -0600
+
+    Create conda_auto_env.sh
+
+[33mcommit 2787818d798cc19c721be51148b235290e25e320[m
+Merge: d9d4f3a 1b74fd2
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Mon Aug 28 21:41:47 2017 -0600
+
+    Merge branch 'master' of https://github.com/CoreyMSchafer/code_snippets
+
+[33mcommit d9d4f3a806a73ec89bb7f14408caabbec1659019[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Mon Aug 28 21:40:25 2017 -0600
+
+    More Code Snippets
+
+[33mcommit 1b74fd2ac0199d81d6099d71a3e7149b3c9a36cf[m
+Author: Corey Schafer <coreymschafer@gmail.com>
+Date:   Mon Aug 28 10:43:24 2017 -0600
+
+    Update oop.py
+
+[33mcommit a2119706c34a825dfef7204041d49cb29a32ab5b[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Tue Aug 15 22:46:20 2017 -0600
+
+    Updated Code Snippets
+
+[33mcommit 5f9d63558d71bec49519c7e6f0b5718d1d1ab3ae[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Tue Jul 25 23:12:16 2017 -0600
+
+    Code Examples
+
+[33mcommit 2165e57e97cde132140c04ed50fe1e5944fb13a8[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Tue May 16 21:31:07 2017 -0600
+
+    Uploaded Beginner Code Snippets
+
+[33mcommit 950c29436fbea73fbdb49aec5dba338e9753a1db[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Mon Apr 17 21:33:03 2017 -0600
+
+    SQLite Tutorial
+
+[33mcommit 3417b19cc441c087a2965832e1974e9fc7bdec0f[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Tue Mar 28 17:42:28 2017 -0600
+
+    Added Inheritance Code
+
+[33mcommit bbc90fa0025f830ee56ee8608e103a42d0df7920[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Sun Mar 26 23:22:23 2017 -0600
+
+    Decorator Args Tutorial
+
+[33mcommit dc29fb63d162c2ce542435a6e745519b6869aac7[m
+Author: Corey Schafer <Corey.Schafer@lasp.colorado.edu>
+Date:   Sat Mar 25 16:48:53 2017 -0600
+
+    Added common starting code for tutorials
+
+[33mcommit 34653e501ad6546e3fdd0c4431385fc83ed57e9b[m
+Author: Corey Schafer <Corey.Schafer@lasp.colorado.edu>
+Date:   Fri Mar 24 19:46:50 2017 -0600
+
+    Added Term snippets
+
+[33mcommit 47a213b5e455ad9a082c835b921e6088afe1a6bc[m
+Author: Corey Schafer <Corey.Schafer@lasp.colorado.edu>
+Date:   Fri Mar 24 19:36:04 2017 -0600
+
+    Added Python code snippets
+
+[33mcommit df2e19b25ee51e29adf6650a52e57257a08f07db[m
+Author: Corey Schafer <CoreyMSchafer@gmail.com>
+Date:   Tue Mar 14 20:15:25 2017 -0600
+
+    Logging Code Snippets
+
+[33mcommit 937a90a44e3b8b23da197dac7b63fbdd7c0fc56b[m
+Author: Corey Schafer <coreymschafer@gmail.com>
+Date:   Fri Jan 6 14:51:01 2017 -0700
+
+    Create mem_profile.py
+
+[33mcommit 5d14af322037dd4f4f7255f96dd8194a2d58ea1b[m
+Author: Corey Schafer <coreymschafer@gmail.com>
+Date:   Fri Jan 6 14:50:19 2017 -0700
+
+    Rename mem_profile.py to mem_profile_old.py
+
+[33mcommit aa0b245265aca1d70b78c077a4f13e7c4aee4617[m
+Author: Corey Schafer <coreymschafer@gmail.com>
+Date:   Fri Jan 6 14:43:37 2017 -0700
+
+    Create mem_profile.py
+
+[33mcommit 8ff422d3c83a4494e6fdbc64804d145593a8a0f4[m
+Author: Corey Schafer <coreymschafer@gmail.com>
+Date:   Fri Jan 6 14:40:14 2017 -0700
+
+    Initial commit
